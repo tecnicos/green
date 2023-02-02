@@ -1,0 +1,83 @@
+body {
+    background: url(img/fond.png);
+    margin-top: 0;
+  }
+  header {
+    font-weight: bold;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 18px;
+    height: 123px;
+    background-color: rgb(184, 203, 33);
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .link {
+    color: rgb(71, 77, 10);
+  }
+  div,
+  nav,
+  .li {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .li {
+    margin-left: 50px;
+  }
+  nav {
+    margin-left: 160px;
+  }
+  
+  div {
+    width: 150px;
+  }
+  section,
+  header {
+    width: 800px;
+    margin: auto;
+  }
+  
+  span {
+    float: left;
+    margin-right: 5px;
+    color: rgb(184, 203, 33);
+  }
+  .imag {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    object-fit: cover;
+  }
+  button {
+    background-color: rgb(184, 203, 33);
+    border: none;
+    padding: 9px;
+    color: white;
+    font-weight: bold;
+    margin-left: 674px;
+  }
+  .back {
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+  }
+  h2 {
+    margin-top: 0;
+    color: rgb(184, 203, 33);
+  }
+  article {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .w3logo {
+    width: 50px;
+    margin-left: 50%;
+    margin-top: 30px;
+  }
+  .text {
+    text-align: center;
+  }
+  
+  .down {
+    width: 80%;
+    margin-left: 150px;
+  }
